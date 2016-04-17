@@ -1,11 +1,11 @@
 Class Documentation
 *******************
 
-.. automodule:: MYMODULE
+.. automodule:: Python-Skel
    :members:
 
 Test Documentation
 ******************
 
-.. automodule:: test_MYMODULE
+.. automodule:: test_Python-Skel
    :members:

@@ -1,10 +1,10 @@
-# MYMODULE
+# Python-Skel
 
 ## CI Status
 
-[![Build Status](https://travis-ci.org/spresse1/MYMODULE.svg?branch=master)](https://travis-ci.org/spresse1/MYMODULE)
-[![codecov.io](https://codecov.io/github/spresse1/MYMODULE/coverage.svg?branch=master)](https://codecov.io/github/spresse1/MYMODULE?branch=master)
-[![Codacy Badge](https://api.codacy.com/project/badge/grade/bdc343b447df40d895be50b251fee31e)](https://www.codacy.com/app/steve_7/MYMODULE)
+[![Build Status](https://travis-ci.org/spresse1/Python-Skel.svg?branch=master)](https://travis-ci.org/spresse1/Python-Skel)
+[![codecov.io](https://codecov.io/github/spresse1/Python-Skel/coverage.svg?branch=master)](https://codecov.io/github/spresse1/Python-Skel?branch=master)
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/bdc343b447df40d895be50b251fee31e)](https://www.codacy.com/app/steve_7/Python-Skel)
 
 ## Purpose
 

@@ -1,4 +1,4 @@
-Welcome to MYMODULE's documentation!
+Welcome to Python-Skel's documentation!
 =====================================
 
 Contents:

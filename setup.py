@@ -3,12 +3,12 @@
 from distutils.core import setup
 from setuptools import setup
 
-setup(name='MYMODULE',
+setup(name='Python-Skel',
 	version='1.0',
 	description='',
 	author='Steven Presser',
-	author_email='MYMODULE@pressers.name',
-	url='https://github.com/spresse1/MYMODULE',
+	author_email='Python-Skel@pressers.name',
+	url='https://github.com/spresse1/Python-Skel',
 	packages=[''],
 	requires=[
 	],
