@@ -14,7 +14,7 @@
 To build the documentation, run:
 `tox -e docs`
 
-Currently this only builds html docs.  Other targets can be relatively easily added by modifying tox.ini.
+To build a target other than html, set the environment variable DOC_TARGET.  Valid values are the same as those for sphinx.
 
 ## Testing
 To test, run either:
